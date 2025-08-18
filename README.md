@@ -47,4 +47,4 @@ To get a copy of this project on your local machine, you'll need to clone the re
 
 Open your terminal, navigate to the directory where you want to store the project, and run the following command:
 
-https://github.com/NewrroTechLLP/NR-BRC-Programs.git
+git clone https://github.com/NewrroTechLLP/NR-BRC-Programs.git
