@@ -1,5 +1,5 @@
 // Define the analog pin connected to the MQ sensor
-const int sensorPin = 25; // Example: GPIO34 on ESP32
+const int sensorPin = 25;
 
 void setup() {
   // Initialize serial communication for debugging
